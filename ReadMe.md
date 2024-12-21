@@ -1,4 +1,4 @@
-##variebles:
+variebles:
 
 
 esperaDoSemafero: it's the time what need to automatically turn the lights
@@ -14,7 +14,7 @@ pinoLed: it's a table where is there the lights pins
 Grren, Yellow, Red: it's the position of pins in pinoLed
 
 
-##components:
+components:
 
 
 1 arduino
@@ -25,7 +25,7 @@ Grren, Yellow, Red: it's the position of pins in pinoLed
 12 100 ohms registor
 2 diods
 
-##TinkeCad project
+TinkeCad project
 
 
 link: https://www.tinkercad.com/things/7IF7tscAASZ-semaforo
