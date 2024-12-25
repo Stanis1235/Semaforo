@@ -25,7 +25,7 @@ components:
 12 100 ohms registor
 2 diods
 
-TinkeCad project
+TinkeCad project:
 
 
 link: https://www.tinkercad.com/things/7IF7tscAASZ-semaforo
